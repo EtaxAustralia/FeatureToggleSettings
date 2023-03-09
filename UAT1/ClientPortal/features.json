@@ -1,5 +1,5 @@
 {
     "CreditCardPayments": {
-        "IsEnabled": false
+        "IsEnabled": true
     }
 }
