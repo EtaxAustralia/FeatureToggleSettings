@@ -1,5 +1,5 @@
 {
     "SimplifiedSmsGatewaySelectorFeatureToggle": {
-        "IsEnabled": false
+        "IsEnabled": true
     }
 }
