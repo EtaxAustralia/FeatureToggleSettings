@@ -3,6 +3,6 @@
         "IsEnabled": false
     },
     "UseCreditCardGateway": {
-        "IsEnabled": false
+        "IsEnabled": true
     }
 }
