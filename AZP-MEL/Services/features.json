@@ -1,0 +1,8 @@
+{
+    "IdCommsSeries": {
+        "IsEnabled": true
+    },
+    "MultiYearPrefill": {
+        "IsEnabled": true
+    },
+}
