@@ -4,5 +4,8 @@
     },
     "UseCreditCardGateway": {
         "IsEnabled": false
+    },
+    "ShowAzureLogin": {
+        "IsEnabled": true
     }
 }
