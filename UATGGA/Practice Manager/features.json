@@ -6,6 +6,6 @@
         "IsEnabled": false
     },
     "ShowAzureLogin": {
-        "IsEnabled": true
+        "IsEnabled": false
     }
 }
