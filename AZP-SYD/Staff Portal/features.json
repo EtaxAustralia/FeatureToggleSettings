@@ -1,5 +1,8 @@
 {
     "AccountSwitching": {
         "IsEnabled": true
+    },
+    "AzureSignUp": {
+        "IsEnabled": false
     }
 }
