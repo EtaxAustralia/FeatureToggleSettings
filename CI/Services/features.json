@@ -5,7 +5,7 @@
     "MultiYearPrefill": {
         "IsEnabled": false
     },
-    "BackFillDataLake" : {
+    "BackFillDataLake": {
         "IsEnabled": true
     }
 }
