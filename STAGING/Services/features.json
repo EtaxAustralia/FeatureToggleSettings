@@ -6,6 +6,6 @@
         "IsEnabled": false
     },
     "BackFillDataLake": {
-        "IsEnabled": false
+        "IsEnabled": true
     }
 }
