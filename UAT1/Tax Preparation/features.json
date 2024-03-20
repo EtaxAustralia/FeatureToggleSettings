@@ -1,10 +1,4 @@
 {
-    "AccountSwitching": {
-        "IsEnabled": false
-    },
-    "AzureSignUp": {
-        "IsEnabled": false
-    },
     "LatestTaxYearPublic": {
         "Value": 2023
     },
