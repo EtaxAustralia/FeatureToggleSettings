@@ -4,11 +4,5 @@
     },
     "AzureSignUp": {
         "IsEnabled": false
-    },
-    "LatestTaxYearPublic": {
-        "Value": 2023
-    },
-    "LatestTaxYearInternal": {
-        "Value": 2023
     }
 }
