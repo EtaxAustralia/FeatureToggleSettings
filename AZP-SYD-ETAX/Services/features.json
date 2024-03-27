@@ -1,0 +1,11 @@
+{
+    "IdCommsSeries": {
+        "IsEnabled": true
+    },
+    "MultiYearPrefill": {
+        "IsEnabled": true
+    },
+    "BackFillDataLake": {
+        "IsEnabled": false
+    }
+}
