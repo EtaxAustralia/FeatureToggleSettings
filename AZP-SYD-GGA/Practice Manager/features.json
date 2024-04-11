@@ -1,0 +1,11 @@
+{
+    "CreditCardPayments": {
+        "IsEnabled": false
+    },
+    "UseCreditCardGateway": {
+        "IsEnabled": true
+    },
+    "ShowAzureLogin": {
+        "IsEnabled": false
+    }
+}
