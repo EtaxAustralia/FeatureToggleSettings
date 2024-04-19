@@ -8,9 +8,6 @@
     "BackFillDataLake": {
         "IsEnabled": true
     },
-    "CalculateReviewerPayments": {
-        "IsEnabled": false
-    },
 	"SaveAtoCommunicationInDryRunMode": {
 		"IsDryRun": true
 	}
