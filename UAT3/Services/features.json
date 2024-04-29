@@ -9,7 +9,7 @@
         "IsEnabled": false
     },
     "CalculateReviewerPayments": {
-        "IsEnabled": true
+        "IsEnabled": false
     },
     "SaveAtoCommunicationInDryRunMode": {
         "IsDryRun": true
