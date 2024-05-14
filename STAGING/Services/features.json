@@ -12,6 +12,6 @@
         "IsEnabled": true
     },
 	"SaveAtoCommunicationInDryRunMode": {
-		"IsDryRun": true
+		"IsDryRun": false
 	}
 }
