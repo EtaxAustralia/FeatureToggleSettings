@@ -3,6 +3,6 @@
         "IsEnabled": false
     },
     "AzureSignUp": {
-        "IsEnabled": true
+        "IsEnabled": false
     }
 }
