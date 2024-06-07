@@ -3,7 +3,7 @@
         "IsEnabled": true
     },
     "AzureSignUp": {
-        "IsEnabled": false
+        "IsEnabled": true
     },
     "LatestTaxYearPublic": {
         "Value": 2023
