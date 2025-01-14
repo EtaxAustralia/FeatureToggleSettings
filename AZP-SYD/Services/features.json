@@ -16,7 +16,7 @@
     },
     "CalculateReviewerHoursWorked": {
         "IsEnabled": false
-    }
+    },
     "SanitisePhoneNumbers": {
         "IsEnabled": true
     }
