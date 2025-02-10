@@ -12,6 +12,6 @@
         "IsDryRun": true
     },
     "SanitisePhoneNumbers": {
-        "IsEnabled": true
+        "IsEnabled": false
     }
 }
