@@ -1,0 +1,20 @@
+{
+    "IdCommsSeries": {
+        "IsEnabled": true
+    },
+    "MultiYearPrefill": {
+        "IsEnabled": true
+    },
+    "BackFillDataLake": {
+        "IsEnabled": true
+    },
+    "CalculateReviewerPayments": {
+        "IsEnabled": true
+    },
+	"SaveAtoCommunicationInDryRunMode": {
+		"IsDryRun": false
+	},
+    "CalculateReviewerHoursWorked": {
+        "IsEnabled": true
+    }
+}

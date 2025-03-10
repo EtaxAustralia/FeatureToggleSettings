@@ -1,0 +1,14 @@
+{
+    "IdCommsSeries": {
+        "IsEnabled": true
+    },
+    "MultiYearPrefill": {
+        "IsEnabled": false
+    },
+    "BackFillDataLake": {
+        "IsEnabled": true
+    },
+	"SaveAtoCommunicationInDryRunMode": {
+		"IsDryRun": true
+	}
+}

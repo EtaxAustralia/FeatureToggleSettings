@@ -1,0 +1,17 @@
+{
+    "IdCommsSeries": {
+        "IsEnabled": false
+    },
+    "MultiYearPrefill": {
+        "IsEnabled": false
+    },
+    "BackFillDataLake": {
+        "IsEnabled": false
+    },
+    "SaveAtoCommunicationInDryRunMode": {
+        "IsDryRun": true
+    },
+    "SanitisePhoneNumbers": {
+        "IsEnabled": false
+    }
+}
