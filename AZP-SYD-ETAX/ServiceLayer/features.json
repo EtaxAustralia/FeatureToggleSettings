@@ -6,7 +6,7 @@
         "IsEnabled": true
     },
     "BackFillDataLake": {
-        "IsEnabled": true
+        "IsEnabled": false
     },
     "CalculateReviewerPayments": {
         "IsEnabled": true
