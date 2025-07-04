@@ -11,10 +11,13 @@
     "CalculateReviewerPayments": {
         "IsEnabled": true
     },
-	"SaveAtoCommunicationInDryRunMode": {
-		"IsDryRun": false
-	},
+    "SaveAtoCommunicationInDryRunMode": {
+        "IsDryRun": false
+    },
     "CalculateReviewerHoursWorked": {
+        "IsEnabled": true
+    },
+    "SanitisePhoneNumbers": {
         "IsEnabled": true
     }
 }
