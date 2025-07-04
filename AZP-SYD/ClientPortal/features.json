@@ -1,8 +1,0 @@
-{
-    "CreditCardPayments": {
-        "IsEnabled": true
-    },
-    "UseCreditCardGateway": {
-        "IsEnabled": true
-    }
-}
