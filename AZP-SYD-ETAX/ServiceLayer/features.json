@@ -18,6 +18,6 @@
         "IsEnabled": true
     },
     "SanitisePhoneNumbers": {
-        "IsEnabled": true
+        "IsEnabled": false
     }
 }
