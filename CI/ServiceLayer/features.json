@@ -16,5 +16,11 @@
 	},
     "CalculateReviewerHoursWorked": {
         "IsEnabled": true
+    },
+    "UseSendGridForPayAndSignEmail": {
+        "IsEnabled": false
+    },
+    "UseSendGridForRegistrationEmail": {
+        "IsEnabled": false
     }
 }

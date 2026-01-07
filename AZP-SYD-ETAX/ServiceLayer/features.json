@@ -19,5 +19,11 @@
     },
     "SanitisePhoneNumbers": {
         "IsEnabled": false
+    },
+    "UseSendGridForPayAndSignEmail": {
+        "IsEnabled": true
+    },
+    "UseSendGridForRegistrationEmail": {
+        "IsEnabled": true
     }
 }
