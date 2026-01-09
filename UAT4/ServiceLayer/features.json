@@ -10,5 +10,11 @@
     },
 	"SaveAtoCommunicationInDryRunMode": {
 		"IsDryRun": true
-	}
+	},
+    "UseSendGridForPayAndSignEmail": {
+        "IsEnabled": false
+    },
+    "UseSendGridForRegistrationEmail": {
+        "IsEnabled": false
+    }
 }
