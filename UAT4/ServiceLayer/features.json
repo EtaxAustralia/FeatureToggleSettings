@@ -12,7 +12,7 @@
 		"IsDryRun": true
 	},
     "UseSendGridForPayAndSignEmail": {
-        "IsEnabled": true
+        "IsEnabled": false
     },
     "UseSendGridForRegistrationEmail": {
         "IsEnabled": true
