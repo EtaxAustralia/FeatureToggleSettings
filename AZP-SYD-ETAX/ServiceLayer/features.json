@@ -24,6 +24,6 @@
         "IsEnabled": true
     },
     "UseSendGridForRegistrationEmail": {
-        "IsEnabled": true
+        "IsEnabled": false
     }
 }
