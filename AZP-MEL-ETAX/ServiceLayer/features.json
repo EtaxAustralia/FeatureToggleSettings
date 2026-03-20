@@ -18,7 +18,7 @@
         "IsEnabled": true
     },
     "UseSendGridForPayAndSignEmail": {
-        "IsEnabled": false
+        "IsEnabled": true
     },
     "UseSendGridForRegistrationEmail": {
         "IsEnabled": false
