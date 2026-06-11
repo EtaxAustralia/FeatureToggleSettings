@@ -1,5 +1,8 @@
 {
     "Animations": {
         "IsEnabled": true
+    },
+    "SignMyReturnTest": {
+        "IsEnabled": false
     }
 }
