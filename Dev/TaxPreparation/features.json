@@ -4,5 +4,8 @@
     },
     "SignMyReturnTest": {
         "IsEnabled": false
+    },
+    "TaxReturnInfoBoxTest": {
+        "IsEnabled": true
     }
 }
