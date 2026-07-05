@@ -6,6 +6,6 @@
         "IsEnabled": false
     },
     "TaxReturnInfoBoxTest": {
-        "IsEnabled": false
+        "IsEnabled": true
     }
 }
