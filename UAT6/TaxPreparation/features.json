@@ -1,11 +1,5 @@
 {
     "Animations": {
         "IsEnabled": true
-    },
-    "SignMyReturnTest": {
-        "IsEnabled": false
-    },
-    "TaxReturnInfoBoxTest": {
-        "IsEnabled": false
     }
 }
